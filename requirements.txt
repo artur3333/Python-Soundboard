@@ -1,0 +1,7 @@
+Pillow==10.4.0
+playsound==1.2.2
+pygame==2.5.2
+pynput==1.6.8
+pystray==0.19.5
+sounddevice==0.5.1
+tkinterdnd2==0.4.2
